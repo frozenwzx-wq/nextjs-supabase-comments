@@ -1,0 +1,24 @@
+{
+  "name": "nextjs-supabase-comments",
+  "version": "1.0.0",
+  "description": "Drop-in comments + likes system for Next.js + Supabase. Threaded replies, rate limiting, content filtering, RLS — copy, configure, ship.",
+  "main": "src/index.ts",
+  "keywords": [
+    "nextjs",
+    "supabase",
+    "comments",
+    "likes",
+    "react",
+    "typescript",
+    "tailwind",
+    "threaded-comments",
+    "rls"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "next": ">=14",
+    "react": ">=18",
+    "@supabase/supabase-js": ">=2",
+    "@supabase/ssr": ">=0.5"
+  }
+}

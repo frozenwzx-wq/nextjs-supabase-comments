@@ -1,0 +1,1 @@
+export { createLikesHandler } from './route';
