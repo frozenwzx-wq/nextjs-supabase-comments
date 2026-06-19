@@ -65,6 +65,8 @@ That's it. Comments and likes work.
 
 The full source code is open-source on GitHub, MIT license. Use it in any project for free.
 
+👉 [GitHub: frozenwzx-wq/nextjs-supabase-comments](https://github.com/frozenwzx-wq/nextjs-supabase-comments)
+
 I also put together a **Complete Package** with:
 - Ready-to-run demo project (clone, `npm install`, works immediately)
 - Step-by-step video walkthrough
