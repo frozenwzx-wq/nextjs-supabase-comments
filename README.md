@@ -156,7 +156,7 @@ This repository is free and MIT-licensed. Use it in any project.
 
 **Need the full guided experience?**
 
-📦 **[Get the Complete Package on Gumroad →](https://gumroad.com)** _(link coming soon)_
+📦 **[Get the Complete Package on Gumroad →](https://frozenwave3.gumroad.com/l/aqdwe)** _(link coming soon)_
 
 | | Free (GitHub) | Complete Package ($29) |
 |---|---|---|
@@ -197,5 +197,5 @@ MIT — use freely in any project, commercial or personal.
 
 <p align="center">
   <b>Built by a developer who got tired of writing the same comments system for every project.</b><br>
-  <sub>Questions? Open an issue. Need the full package? <a href="https://gumroad.com">Gumroad →</a></sub>
+  <sub>Questions? Open an issue. Need the full package? <a href="https://frozenwave3.gumroad.com/l/aqdwe">Gumroad →</a></sub>
 </p>
