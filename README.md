@@ -156,7 +156,7 @@ This repository is free and MIT-licensed. Use it in any project.
 
 **Need the full guided experience?**
 
-📦 **[Get the Complete Package on Gumroad →](https://frozenwave3.gumroad.com/l/aqdwe)** _(link coming soon)_
+📦 **[Get the Complete Package on Gumroad →](https://frozenwave3.gumroad.com/l/aqdwe)**
 
 | | Free (GitHub) | Complete Package ($29) |
 |---|---|---|
