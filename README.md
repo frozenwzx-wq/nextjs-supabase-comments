@@ -195,6 +195,18 @@ MIT — use freely in any project, commercial or personal.
 
 ---
 
+---
+
+## More Tools for Developers
+
+| Product | Description | Price |
+|---------|-------------|-------|
+| [AI Prompts for Developers](https://frozenwave3.gumroad.com/l/vgbgw) | 50 battle-tested AI prompts for coding, debugging, architecture & more | $9 |
+| [Next.js 14 Snippets](https://frozenwave3.gumroad.com/l/emiav) | 30 copy-paste Next.js 14 components with TypeScript | $9 |
+| [Supabase SQL Templates](https://frozenwave3.gumroad.com/l/ubyfy) | 30 production-ready SQL templates from schema to RLS | $9 |
+
+---
+
 <p align="center">
   <b>Built by a developer who got tired of writing the same comments system for every project.</b><br>
   <sub>Questions? Open an issue. Need the full package? <a href="https://frozenwave3.gumroad.com/l/aqdwe">Gumroad →</a></sub>
